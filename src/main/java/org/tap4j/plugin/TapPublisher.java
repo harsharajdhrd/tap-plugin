@@ -34,7 +34,7 @@ import java.util.Objects;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
-import org.apache.commons.lang.BooleanUtils;
+import org.apache.commons.lang3.BooleanUtils;
 import org.kohsuke.stapler.DataBoundConstructor;
 import org.tap4j.model.Plan;
 import org.tap4j.model.TestSet;
